@@ -1,0 +1,2 @@
+INSERT INTO public."user" (user_pass, user_name, user_phone, email) VALUES ('user', 'user', '380991111111', 'user@gmail.com');
+INSERT INTO public."user" (user_pass, user_name, user_phone, email) VALUES ('vlad', 'vlad', '380993268171', 'vlad@i.ua');
